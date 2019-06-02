@@ -8,13 +8,13 @@
 # Site settings
 title: 
 header-img: img/touxiang.png
-#email: your-email@domain.com
+email: wangrenjun12@sina.com
 description: > # this means to ignore newlines until "baseurl:"
    青青子净 悠悠我心  但为君故 沉吟至今   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wangrenjun.com" # the base hostname & protocol for your site
-twitter_username: wangrejun12
-github_username:  wangrejun12
+url: "https://www.jianshu.com/u/3893b994f388" # the base hostname & protocol for your site
+twitter_username: wangrenjun12
+github_username:  wangrenjun12
 
 # Build settings
 markdown: kramdown
